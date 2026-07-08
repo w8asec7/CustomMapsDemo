@@ -2,6 +2,8 @@
 
 **Build indoor navigation for any building — no beacons, no backend, no GPS required.**
 
+🔗 **[Live demo — kiosk viewer](https://edupathllc.com/kiosk/)**
+
 customMaps is a toolkit for turning ordinary floor plan images into fully navigable indoor maps. You draw the map once in a web editor, then export it as a self-contained viewer that gives users turn-by-turn walking directions on the web or in a React Native app — including live positioning indoors, where GPS doesn't work.
 
 ## How it works
