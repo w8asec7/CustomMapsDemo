@@ -1,4 +1,4 @@
-# CustomMapsDemo
+# CustomMapsDemo and Information
 
 **Build indoor navigation for any building — no beacons, no backend, no GPS required.**
 
